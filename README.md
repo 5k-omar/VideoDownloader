@@ -31,9 +31,8 @@ A versatile Python script to download videos from popular social media platforms
     ```
 
 ## Usage
-```sh
-Insert the URL, and the script will automatically detect the format.
-```
+- Insert the URL, and the script will automatically detect the format.
+
 
 ## Error Handling
 - The script includes error handling to ensure smooth operation.
@@ -43,6 +42,3 @@ Insert the URL, and the script will automatically detect the format.
 ## Join Us on Discord
 - For support and to join the community, connect with us on Discord: [Join our Discord server
 ](https://discord.gg/9QrtRxdM8T)
-
-View Counter
-This repository has been viewed [insert view count here] times.
