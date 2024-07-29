@@ -42,3 +42,7 @@ A versatile Python script to download videos from popular social media platforms
 ## Join Us on Discord
 - For support and to join the community, connect with us on Discord: [Join our Discord server
 ](https://discord.gg/9QrtRxdM8T)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
