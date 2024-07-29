@@ -1,9 +1,5 @@
 <p align="center">
   <a href="https://discord.gg/9QrtRxdM8T">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/5k-omar/maker/main/CatrineLogo.png">
-      <img src="https://raw.githubusercontent.com/5k-omar/maker/main/CatrineLogo.png" height="128">
-    </picture>
     <h1 align="center">5k omar</h1>
   </a>
 </p>
