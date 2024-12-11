@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://discord.gg/9QrtRxdM8T">
-    <h1 align="center">5k omar</h1>
+    <h1 align="center">5k omar (catrine)</h1>
   </a>
 </p>
 
