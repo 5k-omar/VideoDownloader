@@ -690,6 +690,7 @@ button.button_dd4f85 /* small buttons */,
 /* top corner title */
 [class^='wordmarkWindows'] {
 	padding: 4px var(--spacing);
+	left: 16px;
 }
 [class^='wordmarkWindows'] > svg {
 	display: none;
